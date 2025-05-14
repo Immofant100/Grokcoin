@@ -1,0 +1,12 @@
+{
+    "name": "grokcoin",
+    "version": "1.0.0",
+    "description": "A simple cryptocurrency implementation",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "elliptic": "^6.5.4"
+    }
+}
